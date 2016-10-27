@@ -18,6 +18,17 @@ Below you will find instructions on how to connect to your personal homedirector
 
 <iframe width="740" height="416" src="https://www.youtube.com/embed/j5Cq41iszFk?rel=0&amp;showinfo=0" frameborder="0"></iframe>
 
+  * Open ExpanDrive
+  * Select SSH (SFTP)
+  * Fill out the form
+    * Server: sftp.vu.nl
+    * Username: VUnetID
+    * Password: your password
+  * If you don't want to reconnect as login deselect the checkbox
+  * Click on 'More Options'
+  * Nickname: Short name to describe the connection
+  * Remote Path: Leave empty
+
 ### How to setup ExpanDrive for group folders
 
 #### Prerequisites:
@@ -28,3 +39,14 @@ Below you will find instructions on how to connect to your personal homedirector
 #### Instruction video
 
 <iframe width="740" height="416" src="https://www.youtube.com/embed/N6vJYCgOolE?rel=0&amp;showinfo=0" frameborder="0"></iframe>
+
+* Open ExpanDrive
+* Select SSH (SFTP)
+* Fill out the form
+  * Server: sftp.vu.nl
+  * Username: VUnetID
+  * Password: your password
+* If you don't want to reconnect as login deselect the checkbox
+* Click on 'More Options'
+* Nickname: Short name to describe the connection
+* Remote Path: /groups

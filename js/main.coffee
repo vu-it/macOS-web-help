@@ -2,7 +2,7 @@
 ---
 # Find all YouTube videos
 $allVideos = $('iframe[src^=\'https://www.youtube.com\']')
-$fluidEl = $('main')
+$fluidEl = $('.page-content>div.wrapper')
 # Figure out and save aspect ratio for each video
 $allVideos.each ->
   $(this).data('aspectRatio', @height / @width).removeAttr('height').removeAttr 'width'

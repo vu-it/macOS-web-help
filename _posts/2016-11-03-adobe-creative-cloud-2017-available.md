@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adobe Creative Cloud 2017 Available via VU Software Center"
+title:  "Adobe Creative Cloud 2017 Available"
 date:   2016-11-03 16:06:09 +0200
 categories: news software
 ---

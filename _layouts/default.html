@@ -17,8 +17,9 @@
 
   </body>
   
-  <script   src="//code.jquery.com/jquery-3.1.1.slim.js"   integrity="sha256-5i/mQ300M779N2OVDrl16lbohwXNUdzL/R2aVUXyXWA="   crossorigin="anonymous"></script>
+  {% assign custom_url = site.url | append: site.baseurl %}
+  {% assign full_base_url = custom_url | default: site.github.url %}
+  <script src="//code.jquery.com/jquery-3.1.1.slim.js"   integrity="sha256-5i/mQ300M779N2OVDrl16lbohwXNUdzL/R2aVUXyXWA="   crossorigin="anonymous"></script>
   <script src="{{ "/js/main.js" | prepend: full_base_url }}" charset="utf-8"></script>
-
   
 </html>

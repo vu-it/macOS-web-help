@@ -3,7 +3,7 @@ layout: page
 title: Email
 ---
 
-The VU uses a Microsoft Exchange server for delivering and sending emails, calendars and an addressbook.
+The Vrije Universiteit uses a Microsoft Exchange server for delivering and sending emails, calendars and an addressbook.
 
 ### How to setup your email account in Outlook 2016
 

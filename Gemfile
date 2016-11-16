@@ -21,3 +21,8 @@ gem "github-pages", group: :jekyll_plugins
 # group :jekyll_plugins do
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
+
+# Use thor to create a new post
+# bundle exec thor jekyll:new Title of a new post
+gem "thor"
+gem "stringex"

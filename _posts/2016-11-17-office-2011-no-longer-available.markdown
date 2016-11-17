@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Office 2011 no longer available"
+title: "Office 2011 not available for 10.10 and up"
 date:   2016-11-17 11:57:22 +0100
 tags: news software
 ---

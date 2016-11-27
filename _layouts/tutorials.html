@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{% assign custom_url = site.url | append: site.baseurl %}
+{% assign full_base_url = custom_url | default: site.github.url %}
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+          
+          {{ content }}
+
+          {% for theme in site.collections %}
+          
+            {% if theme.title %}
+          
+          <h2>{{theme.title}}</h2>
+          <ul>
+          {% for page in theme.docs %}
+            <li><a href="{{page.url | prepend: full_base_url}}">{{ page.title }}</a></li>
+          {% endfor %}
+          </ul>
+          
+            {% endif %}
+
+          {% endfor %}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+  
+  {% assign custom_url = site.url | append: site.baseurl %}
+  {% assign full_base_url = custom_url | default: site.github.url %}
+  <script src="//code.jquery.com/jquery-3.1.1.slim.js"   integrity="sha256-5i/mQ300M779N2OVDrl16lbohwXNUdzL/R2aVUXyXWA="   crossorigin="anonymous"></script>
+  <script src="{{ "/js/main.js" | prepend: full_base_url }}" charset="utf-8"></script>
+  
+</html>

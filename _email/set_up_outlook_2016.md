@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Email
+title: How to setup your email account in Outlook 2016
 ---
 
 The Vrije Universiteit uses a Microsoft Exchange server for delivering and sending emails, calendars and an addressbook.

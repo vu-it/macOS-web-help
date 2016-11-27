@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ExpanDrive
+title: How to set up ExpanDrive
 ---
 
 To access your files in your homedirectory or in group folders, you can use ExpanDrive.

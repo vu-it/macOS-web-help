@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: VU IT Mac Help
-email: servicedesk.it@vu.nl
+emailaddress: servicedesk.it@vu.nl
 description: > # this means to ignore newlines until "baseurl:"
   This site aims to provide information and news to Mac Users at the
   Vrije Universiteit Amsterdam.
@@ -22,7 +22,21 @@ baseurl: /macOS-web-help # the subpath of your site, e.g. /blog
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+# Add _pages and _files
+include: ["_pages"]
+
 # Build settings
 markdown: kramdown
 theme: minima
 exclude: [vendor]
+paginate: 5
+
+collections:
+  email:
+    output: true
+    permalink: /:collection/:path/
+    title: Set up Email
+  file_access:
+    output: true
+    permalink: /:collection/:path/
+    title: Set up File Access

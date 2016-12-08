@@ -13,4 +13,4 @@ Here is a quick link to the HipChat installer: [HipCHat](munki://detail-HipChat)
 
 ## Account
 
-You can sign up for a HipChat account using your VU email address here: [https://vrijeuniversiteit.hipchat.com](https://vrijeuniversiteit.hipchat.com/sign_in)
+You can sign up for a HipChat account using your VU email address here: [https://vrijeuniversiteit.hipchat.com](https://www.hipchat.com/invite/582371/a7a1988c1e264fac2e7563abb11296c3)

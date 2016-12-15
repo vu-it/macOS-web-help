@@ -21,7 +21,7 @@ Below you will find instructions on how to connect to your personal homedirector
   * Open ExpanDrive
   * Select SSH (SFTP)
   * Fill out the form
-    * Server: sftp.vu.nl
+    * Server: sftp.data.vu.nl
     * Username: VUnetID
     * Password: your password
   * If you don't want to reconnect as login deselect the checkbox
@@ -43,7 +43,7 @@ Below you will find instructions on how to connect to your personal homedirector
 * Open ExpanDrive
 * Select SSH (SFTP)
 * Fill out the form
-  * Server: sftp.vu.nl
+  * Server: sftp.data.vu.nl
   * Username: VUnetID
   * Password: your password
 * If you don't want to reconnect as login deselect the checkbox

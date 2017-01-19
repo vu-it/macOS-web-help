@@ -10,3 +10,7 @@ Zoom (Web Conferencing) is available for all people running macOS 10.6 and up.
 ## VU Software Center
 
 Here is a quick link to the Zoom installer: [Zoom](munki://detail-Zoom)
+
+## More information
+
+Visit the [Zoom website](https://zoom.us)

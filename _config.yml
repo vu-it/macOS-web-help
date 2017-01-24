@@ -40,3 +40,7 @@ collections:
     output: true
     permalink: /:collection/:path/
     title: Set up File Access
+  communication:
+    output: true
+    permalink: /:collection/:path/
+    title: Set up Skype for Business

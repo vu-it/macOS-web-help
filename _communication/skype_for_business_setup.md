@@ -9,7 +9,7 @@ The Vrije Universiteit is replacing the old analog phones with Skype for Busines
 
 #### Prerequisites:
 
- * macOS 10.10 (El Capitan) or higher.
+ * macOS 10.11 (El Capitan) or higher.
  * Skype For Business ([Download via VU Software Center](munki://detail-SkypeForBusiness))
  * Microsoft Lync should be **uninstalled**
  * Your VUnet-id and password

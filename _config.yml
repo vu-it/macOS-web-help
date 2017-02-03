@@ -44,3 +44,7 @@ collections:
     output: true
     permalink: /:collection/:path/
     title: Set up Skype for Business
+  vdi:
+    output: true
+    permalink: /:collection/:path/
+    title: Set up Citrix

@@ -16,7 +16,7 @@ Below you will find instructions on how to connect to your personal homedirector
 
 #### Instruction video
 
-<iframe width="740" height="416" src="https://www.youtube.com/embed/j5Cq41iszFk?rel=0&amp;showinfo=0" frameborder="0"></iframe>
+{% include youtube link="j5Cq41iszFk" %}
 
   * Open ExpanDrive
   * Select SSH (SFTP)
@@ -38,7 +38,7 @@ Below you will find instructions on how to connect to your personal homedirector
 
 #### Instruction video
 
-<iframe width="740" height="416" src="https://www.youtube.com/embed/N6vJYCgOolE?rel=0&amp;showinfo=0" frameborder="0"></iframe>
+{% include youtube link="N6vJYCgOolE" %}
 
 * Open ExpanDrive
 * Select SSH (SFTP)

@@ -16,4 +16,4 @@ The Windows 7 virtual desktop via Citrix does not work correctly with the Dutch 
 Close the window
 
 
-![Screenshot](../keyboard_us_international.png)
+{% include image name="keyboard_us_international.png" caption="Language panel: select U.S. International PC" %}

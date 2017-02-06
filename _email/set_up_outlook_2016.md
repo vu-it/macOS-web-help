@@ -14,4 +14,4 @@ The Vrije Universiteit uses a Microsoft Exchange server for delivering and sendi
 
 #### Instruction video
 
-<iframe width="740" height="416" src="https://www.youtube.com/embed/PrODgCI30uw?rel=0&amp;showinfo=0" frameborder="0"></iframe>
+{% include youtube link="PrODgCI30uw" caption="Set up outlook 2016" %}

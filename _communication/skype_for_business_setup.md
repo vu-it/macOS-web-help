@@ -16,7 +16,7 @@ The Vrije Universiteit is replacing the old analog phones with Skype for Busines
 
 #### Instruction video
 
-<iframe width="740" height="416" src="https://www.youtube.com/embed/oiUNRsrw708?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube link="oiUNRsrw708" %}
 
 * Open Skype For Business
 * Fill your email address

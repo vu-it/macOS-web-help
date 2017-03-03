@@ -1,10 +1,10 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-@charset "utf-8";
 
-// Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+// Define defaults for each variable.
+
+$base-font-family: Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -14,59 +14,115 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #0089CF;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    850px;
+$content-width:    900px;
 
 $on-palm:          600px;
-$on-laptop:        850px;
+$on-laptop:        800px;
 
-// Minima also includes a mixin for defining media queries.
+$body-background-color: #f5f5f5;
+$header-font-family: "Roboto Condensed", sans-serif;
+
+
 // Use media queries like this:
 // @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
 // }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
 
-// Import partials from the `minima` theme.
-@import "minima";
+// Import partials.
+@import
+  "minima/base",
+  "minima/layout",
+  "minima/syntax-highlighting"
+;
+
+// Import Roboto Condensed
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+// Import Font awesome
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+// Add customizations
+body {
+  background-color: $body-background-color;
+}
+
+header, main {
+  background-color: $background-color;
+}
+
+header.site-header {
+  border-top: 0px;
+  border-bottom: 1px solid $grey-color-light;
+  min-height: 110px;
+}
+
+h1, h2, h3, h4, h5, h6, .site-title {
+  font-family: $header-font-family;
+  text-transform: uppercase;
+}
+
+h1.page-heading{
+  font-size: 36px;
+}
+
+.site-nav, .site-title {
+  line-height: 56px;
+  padding-top: 40px;
+}
+
+.site-title {
+  font-size: 28px;
+  padding-left: 220px;
+}
+
+.site-nav {
+  font-size: 21px;
+}
+
+img.brand{
+  height: 60px;
+  position: absolute;
+  top: 30px;
+}
+
+.post-meta {
+  font-size: $base-font-size;
+  color: $grey-color;
+}
+
+a { color: $brand-color; text-decoration: none; }
+a:visited { color: $brand-color; }
+a:hover { color: #111; text-decoration: underline; }
+
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
+    margin-bottom: 36px;
+}
+
 
 a.button {
     text-decoration: none;
-   border-top: 1px solid #96d1f8;
-   background: #65a9d7;
-   background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));
-   background: -webkit-linear-gradient(top, #3e779d, #65a9d7);
-   background: -moz-linear-gradient(top, #3e779d, #65a9d7);
-   background: -ms-linear-gradient(top, #3e779d, #65a9d7);
-   background: -o-linear-gradient(top, #3e779d, #65a9d7);
+   background: $brand-color;
    padding: 8.5px 17px;
-   -webkit-border-radius: 5px;
-   -moz-border-radius: 5px;
-   border-radius: 5px;
-   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
-   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
-   box-shadow: rgba(0,0,0,1) 0 1px 0;
-   text-shadow: rgba(0,0,0,.4) 0 1px 0;
    color: white;
-   font-size: 15px;
-   font-family: Helvetica, Arial, Sans-Serif;
+   font-size: 20px;
    text-decoration: none;
    vertical-align: middle;
    }
-a.button:hover {
-   border-top-color: #28597a;
-   background: #28597a;
-   color: #ccc;
-   }
-a.button:active {
-   border-top-color: #1b435e;
-   background: #1b435e;
+a.button:hover, a.button:active {
+   background: #4084B6;
    }

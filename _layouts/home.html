@@ -10,7 +10,7 @@
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
           <div class="home">
-              
+
             {{ content }}
 
             <h1 class="page-heading">Latest News</h1>
@@ -26,8 +26,8 @@
                 </li>
               {% endfor %}
             </ul>
-            
-            <p><a class="btn" href="{{ "/news/" | prepend: site.baseurl }}">More news</a></p>
+
+            <p><a class="btn" href="{{ "/news/" | prepend: site.baseurl }}">More news &nbsp;<i class="fa fa-arrow-right" aria-hidden="true"></i></a></p>
 
           </div>
       </div>
@@ -36,10 +36,10 @@
     {% include footer.html %}
 
   </body>
-  
+
   {% assign custom_url = site.url | append: site.baseurl %}
   {% assign full_base_url = custom_url | default: site.github.url %}
   <script src="//code.jquery.com/jquery-3.1.1.slim.js"   integrity="sha256-5i/mQ300M779N2OVDrl16lbohwXNUdzL/R2aVUXyXWA="   crossorigin="anonymous"></script>
   <script src="{{ "/js/main.js" | prepend: full_base_url }}" charset="utf-8"></script>
-  
+
 </html>

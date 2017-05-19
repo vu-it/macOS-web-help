@@ -48,3 +48,7 @@ collections:
     output: true
     permalink: /:collection/:path/
     title: Set up Citrix
+  software:
+    output: true
+    permalink: /:collection/:path/
+    title: Software specific manuals

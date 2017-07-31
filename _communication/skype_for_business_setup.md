@@ -19,7 +19,7 @@ The Vrije Universiteit is replacing the old analog phones with Skype for Busines
 {% include youtube link="oiUNRsrw708" %}
 
 * Open Skype For Business
-* Fill your email address
+* Fill out your email address
 * Fill out your password
 * Enter vu\ followed by your VUnetID
 * Press 'Sign in'

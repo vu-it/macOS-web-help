@@ -10,7 +10,7 @@ The Vrije Universiteit uses a Microsoft Exchange server for delivering and sendi
 #### Prerequisites:
 
  * Outlook 2016 ([Download via VU Software Center](munki://detail-MSOutlook2016))
- * Your VUnet-id and password
+ * Your VUnetID and password
 
 #### Instruction video
 

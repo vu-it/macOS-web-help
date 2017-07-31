@@ -12,7 +12,7 @@ Below you will find instructions on how to connect to your personal homedirector
 #### Prerequisites:
 
  * ExpanDrive ([Download via VU Software Center](munki://detail-ExpanDrive))
- * Your VUnet-id and password
+ * Your VUnetID and password
 
 #### Instruction video
 
@@ -34,7 +34,7 @@ Below you will find instructions on how to connect to your personal homedirector
 #### Prerequisites:
 
  * ExpanDrive ([Download via VU Software Center](munki://detail-ExpanDrive))
- * Your VUnet-id and password
+ * Your VUnetID and password
 
 #### Instruction video
 

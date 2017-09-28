@@ -13,4 +13,4 @@ It is very helpful if you provide the serialnumber of your computer in the reque
 
 ## VU Software Center
 
-Here is a quick link to the PowerShell installer: [LabVIEW](munki://detail-LabVIEW)
+Here is a quick link to the PowerShell installer: [LabVIEW](munki://detail-labview_pro)

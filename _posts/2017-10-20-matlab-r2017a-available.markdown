@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab R2017a available"
+title: "Matlab R2017b available"
 date:   2017-10-20 14:01:53 +0200
 tags: news software
 ---
@@ -14,7 +14,7 @@ This version has support for macOS High Sierra.
 
 ## VU Software Center
 
-Here is a quick link to the Matlab R2017a installer: [Matlab R2017a](munki://detail-MATLAB_R2017b)
+Here is a quick link to the Matlab R2017b installer: [Matlab R2017b](munki://detail-MATLAB_R2017b)
 
 ## License information
 

@@ -52,3 +52,7 @@ collections:
     output: true
     permalink: /:collection/:path/
     title: Software specific manuals
+  printing:
+    output: true
+    permalink: /:collection/:path/
+    title: Set up Printing

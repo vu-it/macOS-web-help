@@ -7,10 +7,10 @@ tags: news software
 
 National Instruments LabVIEW (Data Acquisition and Visualization tool) is available for all VU employees running macOS 10.10 and up.
 
-**Please note that you have to put in a request for this software at the servicedesk so we can add this to your machine.**
+**Please note that you have to put in a request for this software at the servicedesk so we can add this program to your machine.**
 
-It is very helpful if you provide the serialnumber of your computer in the request.
+Please provide the serialnumber of your computer in the request.
 
 ## VU Software Center
 
-Here is a quick link to the PowerShell installer: [LabVIEW](munki://detail-labview_pro)
+Here is a quick link to the LabVIEW installer: [LabVIEW](munki://detail-labview_pro)

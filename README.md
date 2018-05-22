@@ -11,6 +11,14 @@ Help site for macOS users
 * Install the dependencies `bundle install`
 * Serve the site `bundle exec jekyll serve --watch`
 
+## Update dependencies
+
+Github updates the dependencies for github pages. If that happened, run
+
+`bundle update github-pages`
+
+to get the local install up-to-date
+
 ## Add a news item
 
 To quickly set up a skeleton for a new post, run the following command:

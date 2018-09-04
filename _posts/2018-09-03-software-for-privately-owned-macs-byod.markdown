@@ -5,7 +5,7 @@ date:   2018-09-03 18:38:28 +0200
 tags: news software
 ---
 
-Starting september 2018 VU Software Center has seized offering licensed software to privately owned Macs. The reason is that the software vendors only allow the licenses to be installed on VU owned hardware. As a consequence, a number of popular packages like Microsoft Office and SPSS have been pulled from VU Software Center.
+Starting september 2018 VU Software Center has stopped offering licensed software to privately owned Macs. The reason is that the software vendors only allow the licenses to be installed on VU owned hardware. As a consequence, a number of popular packages like Microsoft Office and SPSS have been pulled from VU Software Center.
 
 ### Private Mac computers
 

@@ -9,6 +9,8 @@ DetectX Swift is available for all users running macOS 10.11 and higher.
 
 DetectX Swift is a lightweight, on-demand dedicated search and troubleshooting tool that can identify malware, adware, keyloggers, potentially unwanted apps and potentially destabilising apps on a mac. It can also help to identify unknown and novel threats through its Profiler and History functions.
 
+Please open the [User Guide](https://s3.amazonaws.com/sqwarq.com/AppCasts/DetectX_Swift_User_Guide.pdf) for instructions.
+
 ## Availability
 
 The software is available for all VU employees running macOS 10.11 and higher. If you're running a lower version of macOS, please upgrade.

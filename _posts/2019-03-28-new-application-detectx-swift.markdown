@@ -19,4 +19,4 @@ The DetectX Swift license installer is only available on the campus networks (wi
 
 ## VU Software Center
 
-Here is a quick link to the DetectX Swift installer: [install SPSS 25](munki://detail-DetectXSwift)
+Here is a quick link to the DetectX Swift installer: [install DetectX Swift](munki://detail-DetectXSwift)

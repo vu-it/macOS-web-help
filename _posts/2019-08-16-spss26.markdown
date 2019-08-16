@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Application: SPSS 26
+title: "New Application: SPSS 26"
 date:   2019-08-16 14:53:16 +0200
 tags: news software
 ---

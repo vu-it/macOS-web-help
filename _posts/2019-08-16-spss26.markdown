@@ -1,0 +1,23 @@
+---
+layout: post
+title: "New Application: SPSS 26
+date:   2019-08-16 14:53:16 +0200
+tags: news software
+---
+---
+
+IBM SPSS 26 is now available for all users running macOS 10.11 and higher.
+
+
+## Availability
+
+The software is available for all VU-Owned macOS hardware of VU employees running macOS 10.11 and higher. If you're running a lower version of macOS, please upgrade.
+
+## VU Software Center
+
+SPSS 26 can only be downloaded from a VU campus internet connection.
+And includes the license which is valid till 1 june 2022
+
+## License information
+
+Download op SPSS 26 includes the license which is valid till 1 june 2022.

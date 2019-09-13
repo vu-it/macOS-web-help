@@ -7,7 +7,7 @@ tags: news software
 
 Oxmetrics 8 is available for all users running macOS 10.11 and higher.
 
-With Oxmetrics 8, you can leave behind the tedious work of formatting bibliographies, finding full text, and searching for references.
+OxMetrics is a family of software packages for the econometric and financial analysis of time series, forecasting, econometric model selection and for the statistical analysis of cross-sectional data and panel data.
 
 For more info, please visit the [Oxmetrics 8 product page](https://www.doornik.com/products.html#OxMetricsDesktop).
 

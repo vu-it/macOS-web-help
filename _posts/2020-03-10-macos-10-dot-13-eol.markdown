@@ -1,0 +1,35 @@
+---
+layout: post
+title: "macOS 10.14 Update"
+date:   2020-03-10 15:42:30 +0100
+tags: news software
+---
+
+On November 30th 2020, Apple will stop providing security updates for macOS 10.13. At the VU, the security of our users is in our best interests. As a result, we will require all users of VU computers to upgrade their Mac workstations to macOS 10.14 (Mojave). Starting November 30th 2020, we will stop providing certain software for those users running macOS 10.13 or older. 
+
+The following devices are supported in macOS 10.14:
+* MacBook Pro (mid 2012 and newer)
+* MacBook Air (mid 2012 and newer)
+* MacBook (early 2015 and later)
+* iMac (late 2012 or newer)
+* iMac Pro (2017 or newer)
+* Mac Pro (late 2013 or newer, or mid 2010 and mid 2012 models with Metal capable GPU)
+* Mac Mini (late 2012 or newer)
+
+
+## FAQs
+
+# What about personal (non-VU-owned) devices?
+We strongly urge you to update your personal macOS devices to macOS Mojave (or later) before the November 30th deadline. It is beneficial to your security as a user to be running software that still receives software updates. It also is beneficial to us, as we can provide better support for more recent operating systems.
+
+# Why not upgrade to macOS 10.15 (Catalina)?
+Due to incompatibilities with some software in macOS Catalina (namedly 32-bit applications no longer being supported), we are delaying the rollout of macOS Catalina to VU-owned devices until we can be sure that all software offered by the VU is macOS Catalina compatible. In the meantime, macOS Mojave will continue to receive the same security updates as macOS Catalina, and is thus just as secure. 
+
+# My device isn't doesn't support macOS Mojave - what do I do?
+Should your macOS device not support Mojave, we advise that you look into a replacement for your machine. 
+
+# How can I update my device?
+An installer for macOS Mojave will be provided for VU-owned devices via VU Software Center. We advise users of private computers to use the instructions found here in order to update their devices.
+
+# My question isn't on this list!
+If you have a question that hasn't been answered here, please contact the IT Servicedesk. The IT servicedesk is open on workdays between 07:30 and 17:00, via their telephone number (020598000) or their email address (servicedesk.it@vu.nl).

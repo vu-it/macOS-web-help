@@ -21,4 +21,4 @@ SPSS 27 can only be installed on a VU campus internet connection. Should you be 
 SPSS 27 includes a license which is valid until the 1st of July, 2022. Any future license extensions will be automatically installed when connected to the VU Campus network.
 
 ## Note for students
-Are you a student? If so, this version of SPSS 27 isn't for you. Students who have been instructed to install SPSS 27 for their course should consult the manual found [here](https://vu-software.azureedge.net/SPSS_27_Manual.pdf) for installation instructions.
+Are you a student? If so, this version of SPSS 27 isn't for you. Students who have been instructed to install SPSS 27 for their course should consult the [VU software download page](https://download.vu.nl/) for installation instructions.

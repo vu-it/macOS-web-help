@@ -5,11 +5,12 @@ date:   2021-01-25 15:59:42 +0100
 tags: news software
 ---
 
-The Adobe Creative Cloud application is now available in the VU Software Center for all VU Mac users running macOS 10.15 and higher.
+Adobe CC is returning to VU Software Center with 64-bit support!
+The Adobe Creative Cloud application will be available in the VU Software Center for all VU Mac users running macOS 10.15 and higher from February 1st, 2021.
 
 ## Availability
 
-The client software is available for all VU-Owned macOS hardware running macOS 10.15 or later. The software does not include a license. You will have to request a license through the askIT portal.
+The client software will be available for all VU-Owned macOS hardware running macOS 10.15 or later. The software does not include a license. You will have to request a license through the askIT portal.
 
 ## License information
 

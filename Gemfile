@@ -26,3 +26,6 @@ gem "github-pages", group: :jekyll_plugins
 # bundle exec thor jekyll:new Title of a new post
 gem "thor"
 gem "stringex"
+
+# a js runtime for serving the site
+gem "mini_racer"

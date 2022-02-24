@@ -5,7 +5,7 @@ date:   2021-01-25 15:59:42 +0100
 tags: news software
 ---
 
-*This article was updated on the 24th of February 2021 to reflect that the Adobe Creative Cloud client now being supported on Apple Silicon.*
+*This article was updated on the 24th of February 2021 to reflect the Adobe Creative Cloud client now being supported on Apple Silicon.*
 
 Adobe CC is returning to VU Software Center with 64-bit support!
 The Adobe Creative Cloud application will be available in the VU Software Center for all VU Mac users running macOS 10.15 and higher from February 1st, 2021.
